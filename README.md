@@ -40,7 +40,7 @@ This project was built as part of my React learning journey, following the React
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](#)**
+🔗 **[View Live Demo](https://react-quiz-nine-zeta.vercel.app/)**
 
 ---
 
